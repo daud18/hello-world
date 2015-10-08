@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+,,
+
+Hi humans,
+
+i'm Daud, wish to learn how to code
